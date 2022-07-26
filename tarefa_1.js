@@ -1,5 +1,5 @@
-var array1 = [[5, 10], [4, 8]];
-var array2 = [[2, 3], [8, 12]];
+var array1 = [[2],[1]];
+var array2 = [[2, 3], [-2, 1]];
 
 function multiplica_matriz() {
     var num_linhas1 = array1.length;
